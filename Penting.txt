@@ -1,0 +1,3 @@
+Connect Server  : php spark Serve
+Tutor di Menit  : Tutorial CodeIgniter 4 untuk PEMULA | 12. Upload File 05:46
+Upload          : http://codeigniter.com/user_guide/libraries/uploaded_files.html
